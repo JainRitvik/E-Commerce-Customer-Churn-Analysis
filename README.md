@@ -58,7 +58,7 @@ These findings show a strong relationship between customer engagement and churn,
 
 The first dashboard page focuses on the overall customer base and the main churn drivers.
 
-![Dashboard Overview](PowerBI/Churn_Analysis_Dashnoard_1.png)
+![Dashboard Overview](PowerBI/Churn_Analysis_Dashnaord_1.png)
 
 ### Customer Segmentation
 
